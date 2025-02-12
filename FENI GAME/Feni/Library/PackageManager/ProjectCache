@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638749690000000000
+      ticks: 638749694840000000
     m_Hash: 205969706
   m_LockFileStatus:
     m_FilePath: /Volumes/My Passport/FENI/Feni/FENI GAME/Feni/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638749690020000000
+      ticks: 638749694840000000
     m_Hash: 3025046548
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -43,6 +43,12 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.2.1
+    - 0.3.0
+    - 0.4.0
+    - 1.0.0-pre.1
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
     - 1.0.0
     compatible:
     - 1.0.0
