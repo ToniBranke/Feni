@@ -364,12 +364,13 @@
 -r:"/Users/tonibranke/Desktop/Unity/6000.0.37f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Users/tonibranke/Desktop/Unity/6000.0.37f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"/Users/tonibranke/Desktop/Unity/6000.0.37f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.iOS.Extensions.Xcode.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Multiplayer.Center.Common.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Multiplayer.Center.Editor.ref.dll"
 -analyzer:"/Users/tonibranke/Desktop/Unity/6000.0.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Users/tonibranke/Desktop/Unity/6000.0.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Users/tonibranke/Desktop/Unity/6000.0.37f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/Code/Character movement.cs"
+"Assets/Code/PlayerCharacter/PlayerMovementController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
